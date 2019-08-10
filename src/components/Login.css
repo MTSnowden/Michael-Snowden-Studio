@@ -1,0 +1,19 @@
+.login-container {
+    display: block;
+}
+  
+.login-flex {
+    display: flex;
+    justify-content: center;
+}
+
+#poo {
+    display: flex;
+    max-width: 500px;
+    justify-content: center;
+}
+
+#moo {
+    display: flex;
+    justify-content: center;
+}
