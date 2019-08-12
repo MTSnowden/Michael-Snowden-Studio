@@ -14,6 +14,7 @@ const Bio = () => (
           <p>My body of work is varied, consisting of large-scale abstract paintings, 
             wood, cement and metal sculptures, charcoal and ink drawings, home furnishings and tattoo designs. 
           </p>
+          {/* here talk more about background, interest and artistic influences */}
           <p>I attended Lamar University in Beaumont, Texas where I earned a 
             Bachelor of Fine Arts degree in Studio Art with a minor in Earth Science.
           </p>
@@ -48,6 +49,7 @@ const Bio = () => (
             My process became more and more physical, ripping and sanding away 
             exposing the colorful layers that lie beneath.
           </p>
+          {/* Want to talk more about current content   */}
         </div>
       </div>
       <hr />
