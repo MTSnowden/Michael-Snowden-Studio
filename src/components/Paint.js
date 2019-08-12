@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import ReactBnbGallery from 'react-bnb-gallery'
 // import forCarlo from '../final-img/forCarlo.JPG'
 import paint1 from '../final-img/paint1.JPG'
+import paint6 from '../final-img.paint6.JPG'
 // import two from '../final-img/paint2.JPG'
 // import three from '../final-img/paint3.jpg'
 // import four from '../final-img/paint4.PNG'
@@ -103,6 +104,11 @@ const photos = [{
     caption: "Weathered",
     subcaption: "Acrylic, house paint and paper on canvas - 2012 ",
     thumbnail: room5Detail,
+  }, {
+    photo: paint6,
+    caption: "High Chroma",
+    subcaption: "Acrylic, house paint and paper on canvas - 2012 ",
+    thumbnail: paint6,
   }
 ];
 

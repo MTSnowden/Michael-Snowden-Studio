@@ -49,7 +49,19 @@ const photos = [{
     caption: "Nude",
     subcaption: "Charcoal on paper - 2015",
     thumbnail: figure4,
-  }]
+  },
+  // {
+  //   photo: figure4,
+  //   caption: "Nude",
+  //   subcaption: "Charcoal on paper - 2015",
+  //   thumbnail: figure4,
+  // },{
+  //   photo: figure4,
+  //   caption: "Nude",
+  //   subcaption: "Charcoal on paper - 2015",
+  //   thumbnail: figure4,
+  // }
+]
 
 export default class DrawGallery extends Component {
     
@@ -85,3 +97,4 @@ const style = {
     border: 'none',
     color: 'grey'
 }
+

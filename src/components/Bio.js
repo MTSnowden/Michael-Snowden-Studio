@@ -10,11 +10,15 @@ const Bio = () => (
     <div className="bio-flex" style={style}>
       <div>
         <div>
-          <hr />
+          <hr /> 
+          <p>Born and raised in east Texas, the natural world has always been a huge part of my life.
+            My work is informed 
+          </p>
           <p>My body of work is varied, consisting of large-scale abstract paintings, 
             wood, cement and metal sculptures, charcoal and ink drawings, home furnishings and tattoo designs. 
           </p>
           {/* here talk more about background, interest and artistic influences */}
+          <p></p>
           <p>I attended Lamar University in Beaumont, Texas where I earned a 
             Bachelor of Fine Arts degree in Studio Art with a minor in Earth Science.
           </p>
