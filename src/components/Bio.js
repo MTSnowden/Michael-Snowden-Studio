@@ -24,12 +24,12 @@ const Bio = () => (
             During my second year I departed from painting representational 
             images in oil on canvas and began to experiment with abstraction and mixed media painting.
             With this new direction came a new process of building the works. 
-            I put all of my focus on <i>how</i> I interacted with the 
-            materials. The various ways I could manipulate them to create 
-            my own unique style and visual language.
             I abandoned the paintbrush and adopted the trowel and electric sander.
             At this time I wasn’t particularly concerned about <i>what</i> I was making, 
-            in terms of visual content, as much as <i>how</i> I was making.  I told myself that
+            in terms of visual content, as much as <i>how</i> I was making. 
+            I put all of my focus on <i>how</i> I interacted with the 
+            materials. The various ways I could manipulate them to create 
+            my own unique style and visual language. I told myself that
             content would come in time.  
           </p>
         </div>
