@@ -11,9 +11,6 @@ const Bio = () => (
       <div>
         <div>
           <hr /> 
-          <p>Born and raised in east Texas, the natural world has always been a huge part of my life.
-            My work is informed 
-          </p>
           <p>My body of work is varied, consisting of large-scale abstract paintings, 
             wood, cement and metal sculptures, charcoal and ink drawings, home furnishings and tattoo designs. 
           </p>
@@ -53,7 +50,7 @@ const Bio = () => (
             My process became more and more physical, ripping and sanding away 
             exposing the colorful layers that lie beneath.
           </p>
-          {/* Want to talk more about current content   */}
+          {/* talk more here about current content   */}
         </div>
       </div>
       <hr />
@@ -69,11 +66,4 @@ const style = {
   width: '70%'
 }
 
-// const picStyle = {
-//   margin: '0 auto',
-//   width: '70%'
-// }
-
 export default Bio
-
-
