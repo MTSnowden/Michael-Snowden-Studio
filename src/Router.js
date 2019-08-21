@@ -44,7 +44,6 @@ const Router = () => {
             <Route path="/projects" component={ListProjects} />
             <Route path="/create" component={NewProject} />
             <Route path="/projects/:id" component={ProjectDetail} />
-
         </Switch>
     );
 }

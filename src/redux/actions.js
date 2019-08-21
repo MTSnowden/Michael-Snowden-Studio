@@ -83,6 +83,7 @@ export function updatePassword(password) {
 }
 
 
+// ------------------------------------------------- PROJECTS
 
 
 export const fetchProjects = dispatch =>{
