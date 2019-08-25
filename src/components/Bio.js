@@ -21,7 +21,7 @@ const Bio = () => (
           </p>
         </div>
         <div>
-          <p>After a year of exploring different artistic practices, 
+          <p>After a year of exploring the different fields in the art department, 
             I chose Painting as my area of concentration. 
             During my second year I departed from painting representational 
             images in oil on canvas and began to experiment with abstraction and mixed media painting.

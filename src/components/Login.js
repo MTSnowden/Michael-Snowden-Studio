@@ -39,8 +39,7 @@ class Login extends Component {
     console.log(this.state.message)
     // console.log(this.props.user)
     // changed this to !this
-    if (!this.props.user) {
-
+    if (this.props.user) {
       return (
         <Redirect to={{
           pathname: "/dashboard",

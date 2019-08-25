@@ -5,6 +5,7 @@ const AuthController = require('../controllers/auth')
 const {list,show,create,remove,removeEmpty} = require( "../controllers/controllers");
 
 function isAuthenticated(req, res, next) {
+  console.log(req.cookies.id_token)
   if (!req.cookies.id_token) {
     return res.status(401).send('Unauthorized')
   }

@@ -1,6 +1,7 @@
 import axios from 'axios'
 import jwt from 'jsonwebtoken'
 
+
 export function login({ userName, password }) {
   return dispatch => {
     return axios({
@@ -40,11 +41,13 @@ export function signUp({ userName, password }) {
       },
       data: JSON.stringify({ userName, password })
     })
+    // .then(res => console.log(res))
     .then((res) => dispatch(login({ userName, password })))
     .catch(err => Promise.reject(err))
   }
 }
 
+// ?
 export function setUser(user) {
   return {
     type: 'SET_USER',
