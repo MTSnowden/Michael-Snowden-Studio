@@ -15,6 +15,11 @@ const Bio = () => (
             wood, cement and metal sculptures, charcoal and ink drawings, home furnishings and tattoo designs. 
           </p>
           {/* here talk more about background, interest and artistic influences */}
+          {/* born and raised in east texas, nature has always been a huge part of my life...  */}
+          {/* Talk about watching my grandmother paint in her studio */}
+          {/* Talk about first painting lessons with her */}
+          {/* uncle phils artwork on the walls.  */}
+          {/* mom and laurie were early influences */}
           <p></p>
           <p>I attended Lamar University in Beaumont, Texas where I earned a 
             Bachelor of Fine Arts degree in Studio Art with a minor in Earth Science.
@@ -51,6 +56,7 @@ const Bio = () => (
             exposing the colorful layers that lie beneath.
           </p>
           {/* talk more here about current content   */}
+          {/*  */}
         </div>
       </div>
       <hr />
