@@ -9,7 +9,8 @@ import figure2 from '../final-img/figure2.png'
 import figure3 from '../final-img/figure3.png'
 import figure4 from '../final-img/figure4.png'
 
-const photos = [{
+const photos = [
+  {
     photo:  draw1,
     caption: "Impending Doom",
     subcaption: "Charcoal on paper - 2012",
@@ -49,18 +50,7 @@ const photos = [{
     caption: "Nude",
     subcaption: "Charcoal on paper - 2015",
     thumbnail: figure4,
-  },
-  // {
-  //   photo: figure4,
-  //   caption: "Nude",
-  //   subcaption: "Charcoal on paper - 2015",
-  //   thumbnail: figure4,
-  // },{
-  //   photo: figure4,
-  //   caption: "Nude",
-  //   subcaption: "Charcoal on paper - 2015",
-  //   thumbnail: figure4,
-  // }
+  }
 ]
 
 export default class DrawGallery extends Component {
